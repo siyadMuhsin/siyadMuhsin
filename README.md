@@ -61,10 +61,10 @@
 ### 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lijo-ns13&show_icons=true&theme=react&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lijo-ns13&theme=react&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siyadMuhsin&show_icons=true&theme=react&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siyadMuhsin&theme=react&hide_border=true" width="47%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lijo-ns13&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=siyadMuhsin&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
