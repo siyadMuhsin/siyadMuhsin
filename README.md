@@ -10,12 +10,9 @@
 ### 🚀 About Me
 
 - 💻 Full Stack Developer specializing in **MERN stack**.
-- 🧠 Passionate about **scalable backend architecture** and **seamless frontend UX**.
-- ⚡ Love automation, CI/CD, and clean code practices.
-- 🌱 Currently exploring **GraphQL**, **Kubernetes**, and **System Design**.
+- 🧠 Passionate about **scalable backend architecture**, **SOLID principles**, and **OOP design patterns** for maintainable systems.
+- ⚡ Enthusiastic about **automation, CI/CD pipelines, and clean code practices**.
 - 📫 Reach me: [siyadsm4065@gmail.com](mailto:siyadsm4065@gmail.com)
-
----
 
 ### 🧰 Tech Stack
 
@@ -50,15 +47,65 @@
 
 ---
 
-### 📂 Featured Projects
+### 📂 Major Projects
 
-- 🛒 **E-Commerce Web App** — Full-featured MERN stack e-commerce site with admin dashboard and Stripe payments  
-  [GitHub Repo](https://github.com/siyadmuhsin/your-ecommerce-project) | [Live Demo](https://your-live-demo.com)
+#### 🛠 ServiceHub — Online Service Booking Platform  
+[🔗 Live](https://servicehubclient.siyad.fun/) | [💻 GitHub](https://github.com/siyadMuhsin/serviceHub)
 
-- 📝 **Blog CMS** — Markdown-powered CMS blog with full CRUD, JWT auth, and image uploads  
-  [GitHub Repo](https://github.com/siyadmuhsin/blog-cms) | [Live Demo](https://your-blog-demo.com)
+A platform connecting users with skilled experts for home and professional services.  
+Key highlights:  
+- **Role-based access control** with JWT and Google Auth  
+- **Expert subscription model** with **Stripe payments**  
+- **Real-time chat** with Socket.IO  
+- **Location-based expert matching** using OpenCage Geocoding API  
+- **Scalable architecture** with Repository Pattern + Inversify  
+
+**Tech Stack:** Node.js, Express.js, React, MongoDB, Socket.IO, Stripe, OpenCage API, Inversify
 
 ---
+
+#### 🍎 Fruitables — Fresh Fruits & Vegetables E-commerce  
+[🔗 Live](https://siyadmuhsin.zapto.org/) | [💻 GitHub](https://github.com/siyadMuhsin/Fruitable/tree/main)
+
+An e-commerce platform for fresh produce, enabling seamless online ordering and management.  
+Key highlights:  
+- **Product browsing, cart, wishlist, order tracking**  
+- **Secure payments** with Razorpay & Cash on Delivery  
+- **Admin panel** for product, order, and report management  
+- **24-hour return policy** for perishable items  
+- **MVC architecture** for maintainability and scalability  
+
+**Tech Stack:** Node.js, Express.js, MongoDB, EJS, Razorpay, Multer, Cloudinary, Sessions, bcrypt, NGINX
+
+---
+
+### 📦 Mini Projects
+
+#### 👥 User Management System  
+[💻 GitHub](https://github.com/siyadMuhsin/UserManagment-Mern)  
+Admin system to manage users with block/unblock features and secure authentication.  
+
+**Tech Stack:** React.js, Node.js, Express.js
+
+---
+
+#### 🔗 URL Shortener (MERN Stack)  
+[💻 GitHub](https://github.com/siyadMuhsin/urlShortner-mechineTask)  
+Full-stack URL shortener with JWT authentication.  
+- Deployed backend on AWS EC2 with Docker & NGINX  
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB
+
+---
+
+#### 📝 Blog Management Platform  
+[🔗 Live](https://mern-blog-platform-eight.vercel.app/) | [💻 GitHub](https://github.com/siyadMuhsin/mern-blog-platform)  
+Secure blog management with JWT authentication, image uploads, and CRUD for blogs.  
+
+**Tech Stack:** Node.js (TypeScript), React (TSX), Express.js, MongoDB, JWT, Multer, Cloudinary
+
+---
+
 
 ### 📊 GitHub Stats
 
